@@ -1,0 +1,24 @@
+# IDEs and editors
+/.idea
+/.vscode
+
+# compiled output
+/server/dist
+/server/node_modules
+
+# Logs
+/server/logs
+/server/*.log
+/server/yarn-debug.log*
+/server/yarn-error.log*
+
+# Lock files
+/server/.yarn.lock
+/server/.package-lock.json
+
+# OS
+/server/.DS_Store
+
+# Tests
+/server/coverage
+/server/.nyc_output
